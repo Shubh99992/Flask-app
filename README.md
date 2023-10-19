@@ -10,23 +10,23 @@ solution in your own environment.
 
 ## Key Features:
 
-1\. \*\*User-Friendly Forms:\*\* Easily create customizable web forms
+1\. User-Friendly Forms: Easily create customizable web forms
 for various purposes, such as surveys, contact forms, or feedback
 collection.
 
-2\. \*\*Data Persistence:\*\* Submitted form data is saved in a
+2\. Data Persistence: Submitted form data is saved in a
 structured text file, making it easy to access and analyze responses.
 
-3\. \*\*Flask-Powered:\*\* This project is built using Flask, a popular
+3\. Flask-Powered: This project is built using Flask, a popular
 Python web framework, ensuring scalability and flexibility.
 
-4\. \*\*Data Security:\*\* User data is stored securely, and the
+4\. Data Security: User data is stored securely, and the
 application follows best practices to protect sensitive information.
 
-5\. \*\*Customization:\*\* Modify the application to suit your specific
+5\. Customization: Modify the application to suit your specific
 needs by adding new fields, form types, or additional functionalities.
 
-6\. \*\*Open Source:\*\* This repository is open source, making it
+6\. Open Source: This repository is open source, making it
 accessible for collaboration, enhancements, and contributions from the
 developer community.
 

